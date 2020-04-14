@@ -1,0 +1,11 @@
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\bin\Debug\Datagrid.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\bin\Debug\Datagrid.pdb
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\obj\x86\Debug\Datagrid.Form1.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\obj\x86\Debug\Datagrid.Properties.Resources.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\obj\x86\Debug\Datagrid.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\obj\x86\Debug\Datagrid.pdb
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\bin\Debug\InscriptionEtudiant-2011-2012.MDB
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Datagrid\Datagrid\bin\Debug\Datagrid.exe.config
